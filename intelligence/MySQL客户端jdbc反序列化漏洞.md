@@ -90,11 +90,7 @@ private void buildCollationMapping() throws SQLException {
 
 # fofa_dork
 ```bash
-mysql://47.242.158.17:3306
-
-mysql://47.243.68.129:3306
-
-mysql://47.243.52.23:3306
+mysql://47.243.106.13:3306
 ```
 
 # Reference
