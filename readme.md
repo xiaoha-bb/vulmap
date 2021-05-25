@@ -31,6 +31,9 @@
 
 [资产收集-WHOIS收集脚本](./assert/icp_scaper/whois_scraper.py)
 
+[资产收集-天津海关-爬虫](https://github.com/Yemeimei/xty_data_-collect/blob/e89de447609616ef3ba4aab3f1c31be9818de361/HAIGUAN_DATA/HAIGUAN_DATA/spiders/TJHG_TJSJ.py)
+
 
 ### 参考链接
 https://vas.riskivy.com/vuln
+http://tianjin.customs.gov.cn/ 
