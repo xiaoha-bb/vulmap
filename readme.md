@@ -1,6 +1,3 @@
-### HW漏洞情报
-[HW漏洞情报4月8号](./intelligence/HW漏洞情报4-8.md)
-
 ### 漏洞情报收集
 [MySQL客户端jdbc反序列化漏洞](./intelligence/MySQL客户端jdbc反序列化漏洞.md)
 
