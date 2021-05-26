@@ -10,9 +10,6 @@
 
 Sonic SMA < 8.0.0.4
 
-**漏洞复现**
-[https://wiki.scn.sap.com/wiki/pages/viewpage.action?pageId=540935305](https://qhgw.gfqh.com.cn/) 
-
 
 **修复方案**
 
